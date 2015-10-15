@@ -7,30 +7,9 @@ log
 .svn/*
 .c9revisions/*
 
-docs
-pages
-
 # Node
 node_modules
 npm-debug.log
-lib-cov
-*.seed
-*.log
-*.csv
-*.dat
-*.out
-*.pid
-*.gz
-
-pids
-logs
-results
 
 # Tools
 .sass-cache
-.settings.xml
-web/public/watch.*
-
-# Openshift
-.bundle
-
